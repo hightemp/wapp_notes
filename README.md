@@ -1,5 +1,7 @@
 # wapp_notes
 
+[![](https://asdertasd.site/counter/wapp_notes?a=1)](https://asdertasd.site/counter/wapp_notes)
+
 Ведение заметок в форматке markdown
 
 ## Перед запуском
